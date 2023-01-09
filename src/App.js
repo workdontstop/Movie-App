@@ -61,12 +61,12 @@ function App() {
               style={{
                 position: "fixed",
                 borderRadius: "50px",
-                bottom: "0em",
+                bottom: "4em",
                 right: "0px",
                 cursor: "pointer",
               }}
             >
-              click me
+              Created By Tega Ogheneovo
             </div>
           </div>
           <div class="col-xs-12 zeropad10"> </div>
